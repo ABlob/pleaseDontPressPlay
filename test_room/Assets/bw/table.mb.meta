@@ -7,11 +7,21 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: table_geo
+    100004: tableBottom_geo
+    100006: tableTop_geo
     400000: //RootNode
     400002: table_geo
+    400004: tableBottom_geo
+    400006: tableTop_geo
     2300000: table_geo
+    2300002: tableBottom_geo
+    2300004: tableTop_geo
     3300000: table_geo
+    3300002: tableBottom_geo
+    3300004: tableTop_geo
     4300000: table_geo
+    4300002: tableBottom_geo
+    4300004: tableTop_geo
   materials:
     importMaterials: 1
     materialName: 0
